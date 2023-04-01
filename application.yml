@@ -17,6 +17,7 @@ microservice:
 test:
   input: 500000    
 
- 
-  
-  
+   
+logging:
+  file:
+    name : /Users/javatechie/Desktop/app-logs/ecom-log  
