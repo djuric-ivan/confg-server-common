@@ -17,8 +17,6 @@ microservice:
 test:
   input: 500000    
 
-logging:
-  charset:
-    file: /Users/javatechie/Desktop/logs/application.log    
+ 
   
   
