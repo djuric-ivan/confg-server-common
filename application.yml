@@ -20,4 +20,4 @@ test:
    
 logging:
   file:
-    name : /Users/javatechie/Desktop/app-logs/ecom-log  
+    name : /Users/javatechie/Desktop/logs/ecom-app-log
