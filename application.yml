@@ -20,4 +20,4 @@ test:
    
 logging:
   file:
-    name: G:/Software/app-logs/ecom-log
+    name: G:/Software/app-logs/ecom_operations.log
